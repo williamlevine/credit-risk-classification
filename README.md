@@ -1,1 +1,1 @@
-# credit-risk-classification
+# Credit Risk Classification - Module 20 Challenge
